@@ -1,0 +1,12 @@
+#include <iostream>
+
+// hi-there.cpp
+// A simple addition
+
+using namespace std;
+
+int main()
+{
+	cout << "Hi there! Welcome to Linux Academy" << endl;
+	reutrn 0;
+}
